@@ -8,6 +8,5 @@ public class b10998 {
         int b = scan.nextInt();
 
         System.out.print(a * b);
-
     }
 }

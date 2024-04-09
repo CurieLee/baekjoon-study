@@ -7,6 +7,5 @@ public class b18108 {
         int year = scan.nextInt();
 
         System.out.print(year - 543);
-
     }
 }
